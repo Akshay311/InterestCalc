@@ -14,7 +14,7 @@
 - Make sure you have Python installed in your system.
 - Run Following command in the CMD.
  ```
-  step 1 : pip install interestCalc
+  step 1 : pip install interest-loan-0.1
   
   step 2 : from package.main import interest
   ```
