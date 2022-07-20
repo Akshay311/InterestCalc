@@ -22,13 +22,13 @@
 ## Example(Calculate Loan Interest)
 
 ## test.py 
-#{
-##from package.interest import interest
-##interest()
-#}
+## {
+## from package.interest import interest
+## interest()
+## }
  ```
    
-##Output:
+## Output:
 
 Principal Amount : 100
 Interest Rate : 10
