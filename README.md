@@ -1,9 +1,9 @@
 # Interest Calculator 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
+[![Python 3.10.5](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## Functionality of the Music Player
+## Functionality of the Interest Calculator
 
 - Interest Calculator
 
@@ -11,21 +11,22 @@
 
 ## Usage
 
-- Make sure you have Python installed in your system.
-- Run Following command in the CMD.
+- A simple interest calculator is a utility tool that calculates the interest on loans or savings without compounding. You may calculate the simple interest on the    principal amount on a daily, monthly, or yearly basis. The simple interest calculator has a formula box, where you enter the principal amount, annual rate, and period in days, months, or years. The calculator will display interest on the loan or the investment.
  ```
+ Follow below steps to use package on python program.
+ 
   step 1 : pip install interest-loan-0.1
   
-  step 2 : from package.main import interest
+  step 2 : from package.interest import interest
   ```
 ## Example(Calculate Loan Interest)
 
- ```
 ## test.py 
 
 
 from package.interest import interest
 interest()
+ ```
    
 Output:
 
