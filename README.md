@@ -29,7 +29,7 @@
 
    
  ```
- Output:
+## Output:
  ```
 
 Principal Amount : 100
@@ -40,10 +40,12 @@ Interest Earned :  8.33
 Total Amount(Principal + Interest) :  108.33
 
  ```
-  Function
+## Function
  ```
 interest()
 
+ ```
 This function are avalible our package.
 I hope enjoy our package
 Thank You
+ ```
